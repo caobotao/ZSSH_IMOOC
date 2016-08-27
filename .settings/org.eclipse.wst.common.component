@@ -2,6 +2,7 @@
     <wb-module deploy-name="ZSSH_IMOOC">
         <wb-resource deploy-path="/" source-path="/WebRoot" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/config"/>
         <property name="context-root" value="ZSSH_IMOOC"/>
         <property name="java-output-path" value="/ZSSH_IMOOC/WebRoot/WEB-INF/classes"/>
     </wb-module>
