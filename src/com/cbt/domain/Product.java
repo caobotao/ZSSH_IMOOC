@@ -1,5 +1,9 @@
 package com.cbt.domain;
 
+/**
+ * 商品实体类
+ * @author caobotao
+ */
 public class Product {
 	private Integer pid;
 	private String pname;
